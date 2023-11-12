@@ -1,5 +1,5 @@
-CREATE DATABASE IMP_SQL_INTERVIEW_QUESTIONS;
-USE IMP_SQL_INTERVIEW_QUESTIONS;
+CREATE DATABASE ECommerce_Data_Analysis;
+USE ECommerce_Data_Analysis;
 
 CREATE TABLE `offices` (
   `officeCode` varchar(10) NOT NULL,
