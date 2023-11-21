@@ -30,7 +30,6 @@ CREATE TABLE `employees` (
   CONSTRAINT `employees_ibfk_2` FOREIGN KEY (`officeCode`) REFERENCES `offices` (`officeCode`)
 ) ;
 
-
 CREATE TABLE `customers` (
   `customerNumber` int(11) NOT NULL,
   `customerName` varchar(50) NOT NULL,
@@ -63,7 +62,6 @@ CREATE TABLE `orders` (
   CONSTRAINT `orders_ibfk_1` FOREIGN KEY (`customerNumber`) REFERENCES `customers` (`customerNumber`)
 );
 
-
 CREATE TABLE `productlines` (
   `productLine` varchar(50) NOT NULL,
   `textDescription` varchar(4000) DEFAULT NULL,
@@ -87,7 +85,6 @@ CREATE TABLE `products` (
   CONSTRAINT `products_ibfk_1` FOREIGN KEY (`productLine`) REFERENCES `productlines` (`productLine`)
 ) ;
 
-
 CREATE TABLE `orderdetails` (
   `orderNumber` int(11) NOT NULL,
   `productCode` varchar(15) NOT NULL,
@@ -99,7 +96,6 @@ CREATE TABLE `orderdetails` (
   CONSTRAINT `orderdetails_ibfk_1` FOREIGN KEY (`orderNumber`) REFERENCES `orders` (`orderNumber`),
   CONSTRAINT `orderdetails_ibfk_2` FOREIGN KEY (`productCode`) REFERENCES `products` (`productCode`)
 );
-
 
 CREATE TABLE `payments` (
   `customerNumber` int(11) NOT NULL,
