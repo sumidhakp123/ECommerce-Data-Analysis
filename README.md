@@ -3,10 +3,10 @@ Framed my own set of questions for finding KPIs
 ![image](https://github.com/sumidhakp123/ECommerce-Data-Analysis/assets/69155879/0e0d65b4-c90d-415d-abcd-f7ae9cc771bb)
 
 - Question1
-- Find the profit margin for different productslines?
+  Find the profit margin for different productslines?
 
 - Question2
-- Calculate avg time for orders placed and orders shipped
+  Calculate avg time for orders placed and orders shipped
 
 - Question 3
 - Find the creditlimit, amount paid and count no of orders places for each customer;
