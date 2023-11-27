@@ -4,11 +4,9 @@ Framed my own set of questions for finding KPIs
 
 1: Find the profit margin for different productslines?
 
-- Question 2:
-  Calculate avg time for orders placed and orders shipped
+2: Calculate avg time for orders placed and orders shipped
 
-- Question 3:
-  Find the creditlimit, amount paid and count no of orders places for each customer;
+3: Find the creditlimit, amount paid and count no of orders places for each customer;
 
 - Question 4:
   Find the customers who have exhausted their creditlimit  
