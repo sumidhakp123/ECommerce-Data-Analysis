@@ -41,5 +41,5 @@ Framed my own set of questions for finding KPIs
  -- Question 13
  --  Total order amount of each office
  
--- Question 14
--- Find the count of products in stock for each product vendor along with productline.
+ -- Question 14
+ -- Find the count of products in stock for each product vendor along with productline.
