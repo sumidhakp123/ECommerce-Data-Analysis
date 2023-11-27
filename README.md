@@ -2,10 +2,6 @@
 Framed my own set of questions for finding KPIs
 ![image](https://github.com/sumidhakp123/ECommerce-Data-Analysis/assets/69155879/0e0d65b4-c90d-415d-abcd-f7ae9cc771bb)
 
-# ECommerce-Data-Analysis
-Framed my own set of questions for finding KPIs
-![image](https://github.com/sumidhakp123/ECommerce-Data-Analysis/assets/69155879/0e0d65b4-c90d-415d-abcd-f7ae9cc771bb)
-
 1. Find the profit margin for different productslines?
 
 2. Calculate avg time for orders placed and orders shipped
@@ -32,4 +28,4 @@ Framed my own set of questions for finding KPIs
  
 13. Total order amount of each office
  
-14.Find the count of products in stock for each product vendor along with productline.
+14. Find the count of products in stock for each product vendor along with productline.
