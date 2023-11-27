@@ -5,6 +5,11 @@
 # ECommerce-Data-Analysis
 
 Framed my own set of questions for finding KPIs
+### ER Diagram of ExCommerce Data Analysis
+div align="center">
+  <img src="https://github.com/sumidhakp123/ECommerce-Data-Analysis/assets/69155879/4a8aa016-a023-43ca-b8f6-10722a32f025" width="85%" alt="ER Diagram.png">
+</div>
+
 
 
 1. Find the profit margin for different productslines?
